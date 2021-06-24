@@ -1,0 +1,48 @@
+﻿<?xml version = "1.0" encoding = "utf-8" ?>
+<DSNV>
+  <NhanVien>
+    <MaNV>A01</MaNV>
+    <TenNV>Trần Ngọc Thịnh</TenNV>
+    <PhongBan>Vipro</PhongBan>
+    <ChucVu>Lãnh đạo</ChucVu>
+    <HSL>6.2</HSL>
+    <ThamNien>50</ThamNien>
+    <SoNgayLam>100</SoNgayLam>
+  </NhanVien>
+  <NhanVien>
+    <MaNV>A02</MaNV>
+    <TenNV>Trần Đinh Diệu Mi</TenNV>
+    <PhongBan>Vipro</PhongBan>
+    <ChucVu>Nhân viên</ChucVu>
+    <HSL>5.5</HSL>
+    <ThamNien>40</ThamNien>
+    <SoNgayLam>58</SoNgayLam>
+  </NhanVien>
+  <NhanVien>
+    <MaNV>A03</MaNV>
+    <TenNV>Nguyễn Ngọc Duy</TenNV>
+    <PhongBan>Vipro</PhongBan>
+    <ChucVu>Nhân viên</ChucVu>
+    <HSL>4.6</HSL>
+    <ThamNien>45</ThamNien>
+    <SoNgayLam>87</SoNgayLam>
+  </NhanVien>
+  <NhanVien>
+    <MaNV>A04</MaNV>
+    <TenNV>Nguyễn Văn Đỉnh</TenNV>
+    <PhongBan>Tài vụ</PhongBan>
+    <ChucVu>Nhân viên</ChucVu>
+    <HSL>4.0</HSL>
+    <ThamNien>10</ThamNien>
+    <SoNgayLam>9</SoNgayLam>
+  </NhanVien>
+  <NhanVien>
+    <MaNV>A05</MaNV>
+    <TenNV>Phạm Tấn Đồng</TenNV>
+    <PhongBan>Tài vụ</PhongBan>
+    <ChucVu>Nhân viên</ChucVu>
+    <HSL>4.5</HSL>
+    <ThamNien>10</ThamNien>
+    <SoNgayLam>32</SoNgayLam>
+  </NhanVien>
+</DSNV>
